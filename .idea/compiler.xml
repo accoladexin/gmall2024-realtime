@@ -9,9 +9,10 @@
         <module name="realtime-common" />
         <module name="realtime-dim" />
         <module name="realtime-dws" />
+        <module name="FlinkStudy" />
         <module name="realtime-dwd" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="17" />
+    <bytecodeTargetLevel target="18" />
   </component>
 </project>
